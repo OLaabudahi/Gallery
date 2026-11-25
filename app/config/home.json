@@ -7,7 +7,7 @@
       "primary": "View Gallery",
       "secondary": "Contact Us"
     },
-    "backgroundImage": "/Gallery/images/hero-bg.jpg"
+    "backgroundImage": "/Gallery/Gallery/images/hero-bg.jpg"
   },
   "featuredCollections": [
     {
