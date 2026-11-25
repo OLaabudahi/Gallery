@@ -1,16 +1,15 @@
 # Gallery - Free Tailwind CSS & Next.js Website Template
 #### Preview
 
- - [Demo](https://themewagon.github.io/gallery/)
+ - [Demo]
 
 #### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/gallery/)
+ - [Download from ThemeWagon]
 
 ## Getting Started
 
 1. Clone Repository
 ```
-git clone https://github.com/themewagon/gallery.git
 ```
 2. Install Dependencies
 ```
@@ -35,6 +34,6 @@ Design and code is completely written by tomcomtang and development team.
 
 ## License
 
- - Design and Code is Copyright &copy; <a href="https://github.com/tomcomtang" target="_blank">tomcomtang</a>
+ - Design and Code is Copyright &copy; 
  - Licensed cover under [MIT]
- - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
+ - Distributed by 

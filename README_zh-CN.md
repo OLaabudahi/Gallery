@@ -1,16 +1,15 @@
 # Gallery - 免费的 Tailwind CSS 和 Next.js 网站模板
 #### 预览
 
- - [演示](https://themewagon.github.io/gallery/)
+ - [演示]
 
 #### 下载
- - [从 ThemeWagon 下载](https://themewagon.com/themes/gallery/)
+ - [从 ThemeWagon 下载]
 
 ## 开始使用
 
 1. 克隆仓库
 ```
-git clone https://github.com/themewagon/gallery.git
 ```
 2. 安装依赖
 ```
@@ -34,7 +33,4 @@ bun dev
 ```
 
 ## 开源协议
-
- - 设计与代码版权归 &copy; <a href="https://github.com/tomcomtang" target="_blank">tomcomtang</a> 所有
- - 基于 [MIT] 协议授权
- - 由 <a href="https://themewagon.com" target="_blank">ThemeWagon</a> 分发
+" target="_blank"></a> 分发

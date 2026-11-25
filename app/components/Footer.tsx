@@ -49,8 +49,7 @@ export default function Footer() {
           ))}
         </div>
         <div className="text-gray-600 text-center hover:text-gray-900 transition-colors duration-200 ease-in-out">
-          &copy; 2026 Gallery. All rights reserved by <Link className='hover:underline hover:text-gray-900 font-bold' href="https://github.com/tomcomtang" target="_blank">tomcomtang</Link> • Distributed by <Link className='hover:underline hover:text-gray-900 font-bold' href="https://themewagon.com" target="_blank">ThemeWagon</Link>
-        </div>
+          &copy; © 2026 OLVARYN Technologies. All rights reserved.
       </div>
     </footer>
   )
