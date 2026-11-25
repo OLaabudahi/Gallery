@@ -7,28 +7,28 @@
       "primary": "View Gallery",
       "secondary": "Contact Us"
     },
-    "backgroundImage": "/images/hero-bg.jpg"
+    "backgroundImage": "/Gallery/images/hero-bg.jpg"
   },
   "featuredCollections": [
     {
       "id": "nature",
       "title": "Nature",
       "description": "Exploring the magnificent landscapes of nature",
-      "image": "/images/gallery/nature/nature_1.jpg",
+      "image": "/Gallery/images/gallery/nature/nature_1.jpg",
       "link": "/gallery/nature"
     },
     {
       "id": "urban",
       "title": "Urban Life",
       "description": "Capturing the vitality of city life",
-      "image": "/images/gallery/urban/urban_1.jpg",
+      "image": "/Gallery/images/gallery/urban/urban_1.jpg",
       "link": "/gallery/urban"
     },
     {
       "id": "travel",
       "title": "Travel",
       "description": "Recording wonderful moments during journeys",
-      "image": "/images/gallery/travel/travel_1.jpg",
+      "image": "/Gallery/images/gallery/travel/travel_1.jpg",
       "link": "/gallery/travel"
     }
   ],
